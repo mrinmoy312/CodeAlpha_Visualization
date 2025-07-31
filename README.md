@@ -50,7 +50,7 @@ Each visualization helps to identify patterns in customer behavior and tipping t
 | `tips_visualization.pdf`| PDF report with rendered graphs            |
 | `README.md`             | Project documentation (this file)          |
 
-.py file is for code and .pdf is the visual outpu
+.py file is for code and .pdf is the visual output
 ---
 
 
