@@ -44,11 +44,11 @@ Each visualization helps to identify patterns in customer behavior and tipping t
 
 ## 📂 Files in This Repository
 
-| File Name                 | Description                          |
-|--------------------------|--------------------------------------|
-| `tips_visualization.py`  | Python script with all visualizations |
-| `tips_visualization.pdf` | PDF output with rendered graphs       |
-| `README.md`              | This documentation file               |
+| File Name               | Description                              |
+|-------------------------|------------------------------------------|
+| `tips_visualization.py` | Python script containing all visualizations |
+| `tips_visualization.pdf`| PDF report with rendered graphs            |
+| `README.md`             | Project documentation (this file)          |
 
 ---
 
